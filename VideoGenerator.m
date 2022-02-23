@@ -1,6 +1,6 @@
 % This Skript generates a Video File from the selected ZugVersuch Project
 % Author      --- Ishwor Koirala
-% Email       --- i@koirala.de (ishwor.koirala@htwg-konstanz.de) 
+% Email       --- ishwor@koirala.de (ishwor.koirala@htwg-konstanz.de) 
 % Last edited --- 14.12.2021
 
 % Selecting the Project 
